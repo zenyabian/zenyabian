@@ -1,6 +1,4 @@
-## Hi there 👋
+## hi, i'm zenya.
 
-<!--
-**zenyabian/zenyabian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-HELLO WORLD
+mcdb @ ucla
+making music as zento box
