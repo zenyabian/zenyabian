@@ -1,3 +1,3 @@
 ## hi, i'm zenya.
 
-student @ ucla + making music as zento box
+student @ ucla + website designer hobbyist
