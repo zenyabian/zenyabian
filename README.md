@@ -1,3 +1,3 @@
-## hi, i'm zenya.
+## hi, i'm zenya!
 
 student @ ucla
